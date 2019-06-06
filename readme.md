@@ -7,12 +7,12 @@ Html5 Game Development Review template
 
 [![HTML5 Game Development Preview](http://bootstrap4.cc/wp-content/uploads/2019/06/html5-game-development.png)](https://bootstrap4.cc/theme/html5-game-development/)
 
-**[View Live Preview](https://bootstrap4.cc/theme/html5-game-development-theme)**
+**[View Live Preview](https://bootstrap4.cc/theme/html5-game-development)**
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release](https://bootstrap4.cc/theme/html5-game-development-theme/)
+* [Download the latest release](https://bootstrap4.cc/theme/html5-game-development)
 
 ## Usage
 
